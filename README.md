@@ -70,6 +70,8 @@ Testing the above mentioned converters still gave some faulty conversion. These 
 
 - poor link conversion
 
+Embedded content will also need to be converted to Hugo's [shortcodes](https://gohugo.io/content-management/shortcodes/).
+
 ### Initialising Hugo Site
 
 Create a Hugo site
