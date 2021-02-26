@@ -80,7 +80,9 @@ Create a Hugo site
 hugo new site <site-name>
 ```
 
-Select any one of the [themes](https://themes.gohugo.io/).
+Select and download any one of the [themes](https://themes.gohugo.io/).
+Each theme has their own specific instructions to apply them. Some may
+require Hugo Extended Edition.
 
 ```bash
 cd <site-name>
